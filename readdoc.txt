@@ -1,0 +1,1 @@
+drag and drop upload not working so remove it and give me suggetion for batter this code
